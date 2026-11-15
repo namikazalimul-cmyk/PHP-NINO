@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PHP NANO</string>
+    <string name="acc_desc">Déplacement du point de visée vers la tête (PHP NANO).</string>
+</resources>
